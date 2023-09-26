@@ -46,7 +46,6 @@ npx expo init
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
-![WhatsApp Image 2023-09-26 at 19 22 51](https://github.com/Akash-ku-Mallick/TaskTracker/assets/99015782/9af8eab4-673e-471c-a23e-8c9c7feafd5b)
 
 Please make sure to create separate branch.
 
