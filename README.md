@@ -1,4 +1,5 @@
 # Task Tracker
+![tasktracker-logo](https://github.com/Akash-ku-Mallick/TaskTracker/assets/99015782/ed98afb7-e8b5-4064-bbdf-07d85dd981de)
 
 TaskTracker is a ract native based Android application that uuuuu
 
@@ -36,15 +37,16 @@ Then check if Expo is initialized or not.
 npx expo init
 ```
 ## Samples 
-
-
-
+![tasktracker-logo](https://github.com/Akash-ku-Mallick/TaskTracker/assets/99015782/c47fadc7-6652-4690-9b0b-a2856755915f)
+![app2](https://github.com/Akash-ku-Mallick/TaskTracker/assets/99015782/96af6936-5e72-44b5-872f-ba88a861a6d4)
+![app1](https://github.com/Akash-ku-Mallick/TaskTracker/assets/99015782/c8ac76ef-fe10-4fc9-8ccf-8de01ea9316a)
 
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
+![WhatsApp Image 2023-09-26 at 19 22 51](https://github.com/Akash-ku-Mallick/TaskTracker/assets/99015782/9af8eab4-673e-471c-a23e-8c9c7feafd5b)
 
 Please make sure to create separate branch.
 
